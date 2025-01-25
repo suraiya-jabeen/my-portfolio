@@ -23,7 +23,7 @@ To run this project locally:
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/my-portfolio.git
+   git clone https://github.com/suraiya-jabeen/my-portfolio.git
 
 2. Navigate into the project folder:
    
