@@ -1,0 +1,27 @@
+.about-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.about-content img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 5px solid #fff;
+}
+
+.about-content p {
+  margin-bottom: 20px;
+}
+
+.linkedin-btn {
+  margin-top: 10px;
+  background-color: #0077b5;
+}
+
+.linkedin-btn:hover {
+  background-color: #005582;
+}
